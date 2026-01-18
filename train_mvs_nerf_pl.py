@@ -1,3 +1,4 @@
+import distutils.version
 from opt import config_parser
 from torch.utils.data import DataLoader
 
